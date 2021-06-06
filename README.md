@@ -27,5 +27,6 @@ DISCLAIMER: L'ip tracker n'est pas fiable a 100%. L'api n'est pas précise comme
 
 🎫 Mon Discord: Gabin#7955!
 
-![Uploading ip.png…]()
+![ip](https://user-images.githubusercontent.com/79531012/120932328-98eeb500-c6f5-11eb-91c9-62ca4d8e87c7.png)
+
 
